@@ -35,8 +35,5 @@
     "jshint": "^2.8.0",
     "steal-qunit": "^0.1.1",
     "testee": "^0.2.2"
-  },
-  "engines": {
-    "node": ">= 4.x"
   }
 }
